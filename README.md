@@ -18,7 +18,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/EtBZ577Z8xMj
 -  I’m a switcher and interested in Programming. I have completed a Full Stack development course 👩‍🎓.
 -  My project experience includes team and individual projects, where I have worked with technologies such as HTML5, CSS3, JS, React, React Native, Node.js, Typescript, MongoDB, Scrum, Vite.
 - :open_book: Love studing 💻 and sharing knowledge.
--  🏔️ and ⛷️ is one of my favourite hobbies.
+-  ⛷️ is one of my favourite hobbies.
 - 🌐 Languages : Ukrainian - native | English - intermediate 
 - :email: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iuliia-tyndyk)
 
